@@ -100,7 +100,7 @@ nav ul li a:hover::after{
     flex-basis: 35%;
 }
 .about-1 img{
-    width: 100%;
+    width: 85%;
     border-radius: 15px;
 }
 .about-2{
@@ -112,9 +112,11 @@ nav ul li a:hover::after{
     font-weight: 600;
     color:#fff;
 }
+.para{
+    font-size: 150%;
+}
 
-
-.tab-title{
+/*.tab-title{
     display: flex;
     margin: 20px 0 40px;
 }
@@ -154,7 +156,8 @@ nav ul li a:hover::after{
 }
 .tab-contents.active{
     display: block;
-}
+    
+}*/
 /*---------projects-------------*/
 
 .row{
